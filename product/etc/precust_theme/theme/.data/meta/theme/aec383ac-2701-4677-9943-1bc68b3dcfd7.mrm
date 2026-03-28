@@ -1,0 +1,157 @@
+{
+  "localId": "aec383ac-2701-4677-9943-1bc68b3dcfd7",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "cdac5c7c367e4987b12db38672e36d42cf7b85ca",
+  "platform": 17,
+  "size": 45260177,
+  "updatedTime": 0,
+  "version": "3.1",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "REDMI K90 Pro Max 冠軍版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "zh_TW": "REDMI K90 Pro Max 冠軍版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "en_US": "REDMI K90 Pro Max AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "zh_CN": "REDMI K90 Pro Max 冠军版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "fallback": "REDMI K90 Pro Max 冠军版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE"
+  },
+  "descriptions": {
+    "zh_HK": "不熄的冠軍信仰，再度與冠軍旗艦 K 系列並肩馳騁。\n傳統在顛覆中傳承，全新競技主題融入了蘭博基尼汽車 SQUADRA CORSE 經典 DNA，延續六邊形標誌設計語言，又融入更加凌厲的賽車線條，純粹又不失鋒芒。\n更有深度客製化的開機動畫、充電動效、桌面桌布及賽道風格圖標，全方位演繹賽車靈魂。\n每一次喚醒，都是一場視覺引擎的轟鳴。",
+    "zh_TW": "不熄的冠軍信仰，再度與冠軍旗艦 K 系列並肩馳騁。\n傳統在顛覆中傳承，全新競技主題融入了蘭博基尼汽車 SQUADRA CORSE 經典 DNA，延續六邊形標誌設計語言，又融入更加凌厲的賽車線條，純粹又不失鋒芒。\n更有深度客製化的開機動畫、充電動效、桌面桌布及賽道風格圖標，全方位演繹賽車靈魂。\n每一次喚醒，都是一場視覺引擎的轟鳴。",
+    "en_US": "Driven by an enduring champion spirit, the REDMI K series once again races forward with a flagship built for glory.\nBlending tradition with bold innovation, the new racing theme channels the iconic DNA of LAMBORGHINI SQUADRA CORSE — from signature hexagonal motifs to sharper, more dynamic lines that cut through like speed itself.\nCustom boot and charging animations, race-themed wallpapers, and striking track-style icons bring the thrill of the racetrack to your screen.\nEvery wake-up is like a visual engine rev—born to race, built to win.",
+    "zh_CN": "不熄的冠军信仰，再度与冠军旗舰 K 系列并肩驰骋。\n传统在颠覆中传承，全新竞技主题融入了兰博基尼汽车 SQUADRA CORSE 经典 DNA，延续六边形标志设计语言，又融合更加凌厉的赛车线条，纯粹又不失锋芒。\n更有深度定制的开机动画、充电动效、桌面壁纸及赛道风格图标，全方位演绎赛车灵魂。\n每一次唤醒，都是一场视觉引擎的轰鸣。",
+    "fallback": "不熄的冠军信仰，再度与冠军旗舰 K 系列并肩驰骋。\n传统在颠覆中传承，全新竞技主题融入了兰博基尼汽车 SQUADRA CORSE 经典 DNA，延续六边形标志设计语言，又融合更加凌厉的赛车线条，纯粹又不失锋芒。\n更有深度定制的开机动画、充电动效、桌面壁纸及赛道风格图标，全方位演绎赛车灵魂。\n每一次唤醒，都是一场视觉引擎的轰鸣。"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_aod_small_0.jpg",
+      "preview_aod_0.jpg",
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg",
+      "preview_clock_2x4_0.png",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_aod_0.jpg",
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg",
+      "preview_clock_2x4_0.png",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "f99dfa5e-ead3-4303-9958-c862cbeae8c6",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "12d1b9ba-6792-4ee8-866e-1d6959702049",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "20cd2463-615f-4995-a83e-a83cb4dc136d",
+      "resourceCode": "bootanimation",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "adb5117a-2c0c-45bc-9ab6-260024485d68",
+      "resourceCode": "bootaudio",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "159bd3e2-5bc9-4333-b236-0235b740c220",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "43fd58a1-7151-496f-848e-9de3b96f9fd6",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "edd68a01-4f01-4b92-b2a7-870f8c555a61",
+      "resourceCode": "aod",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "3b97a862-8f73-4a85-ab07-922d315cb7b7",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "2ea2e9fe-cc41-4be2-93ad-ce83bcd41d65",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": "/product/etc/precust_theme/theme/.data/rights/theme/7b900cc2c0cb87cae1a7d14fb5d3919ada0e410e.mra",
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}

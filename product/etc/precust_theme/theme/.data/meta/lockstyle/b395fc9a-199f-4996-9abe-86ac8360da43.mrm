@@ -1,0 +1,76 @@
+{
+  "localId": "b395fc9a-199f-4996-9abe-86ac8360da43",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "40f49a9da0d035eb9e8bd7611eaf99630f90a70d",
+  "platform": 17,
+  "size": 23520586,
+  "updatedTime": 0,
+  "version": "3.1",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题",
+    "en_US": "Xiaomi Themes"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题",
+    "en_US": "Xiaomi Themes"
+  },
+  "titles": {
+    "zh_HK": "REDMI K90 Pro Max 冠軍版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "zh_TW": "REDMI K90 Pro Max 冠軍版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "zh_CN": "REDMI K90 Pro Max 冠军版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "fallback": "REDMI K90 Pro Max 冠军版 AUTOMOBILI LAMBORGHINI SQUADRA CORSE",
+    "en_US": "REDMI K90 Pro Max AUTOMOBILI LAMBORGHINI SQUADRA CORSE"
+  },
+  "descriptions": {
+    "zh_HK": "不熄的冠軍信仰，再度與冠軍旗艦 K 系列並肩馳騁。\n傳統在顛覆中傳承，全新競技主題融入了蘭博基尼汽車 SQUADRA CORSE 經典 DNA，延續六邊形標誌設計語言，又融入更加凌厲的賽車線條，純粹又不失鋒芒。\n更有深度客製化的開機動畫、充電動效、桌面桌布及賽道風格圖標，全方位演繹賽車靈魂。\n每一次喚醒，都是一場視覺引擎的轟鳴。",
+    "zh_TW": "不熄的冠軍信仰，再度與冠軍旗艦 K 系列並肩馳騁。\n傳統在顛覆中傳承，全新競技主題融入了蘭博基尼汽車 SQUADRA CORSE 經典 DNA，延續六邊形標誌設計語言，又融入更加凌厲的賽車線條，純粹又不失鋒芒。\n更有深度客製化的開機動畫、充電動效、桌面桌布及賽道風格圖標，全方位演繹賽車靈魂。\n每一次喚醒，都是一場視覺引擎的轟鳴。",
+    "zh_CN": "不熄的冠军信仰，再度与冠军旗舰 K 系列并肩驰骋。\n传统在颠覆中传承，全新竞技主题融入了兰博基尼汽车 SQUADRA CORSE 经典 DNA，延续六边形标志设计语言，又融合更加凌厉的赛车线条，纯粹又不失锋芒。\n更有深度定制的开机动画、充电动效、桌面壁纸及赛道风格图标，全方位演绎赛车灵魂。\n每一次唤醒，都是一场视觉引擎的轰鸣。",
+    "fallback": "不熄的冠军信仰，再度与冠军旗舰 K 系列并肩驰骋。\n传统在颠覆中传承，全新竞技主题融入了兰博基尼汽车 SQUADRA CORSE 经典 DNA，延续六边形标志设计语言，又融合更加凌厉的赛车线条，纯粹又不失锋芒。\n更有深度定制的开机动画、充电动效、桌面壁纸及赛道风格图标，全方位演绎赛车灵魂。\n每一次唤醒，都是一场视觉引擎的轰鸣。",
+    "en_US": "Driven by an enduring champion spirit, the REDMI K series once again races forward with a flagship built for glory.\nBlending tradition with bold innovation, the new racing theme channels the iconic DNA of LAMBORGHINI SQUADRA CORSE — from signature hexagonal motifs to sharper, more dynamic lines that cut through like speed itself.\nCustom boot and charging animations, race-themed wallpapers, and striking track-style icons bring the thrill of the racetrack to your screen.\nEvery wake-up is like a visual engine rev—born to race, built to win."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "561a1950-9786-401c-9a8c-cb01cb8c0e62",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": "/product/etc/precust_theme/theme/.data/rights/theme/d14404ea5da09265991d96b299f3ef8c7cc07fba.mra",
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}
