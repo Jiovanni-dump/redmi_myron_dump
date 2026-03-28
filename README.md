@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 16OS3.1.260305.022834794.QCPECN.S release-keys
+- manufacturer: xiaomi
+- platform: canoe
+- codename: myron
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: 16OS3.1.260305.022834794.QCPECN.S
+- tags: release-keys
+- fingerprint: Redmi/myron/myron:16/BQ2A.250705.001-BP2A.250605.031.A3/OS3.0.303.0.WPMCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-16-BP2A.250605.031.A3-16OS3.1.260305.022834794.QCPECN.S-release-keys
+- repo: redmi_myron_dump

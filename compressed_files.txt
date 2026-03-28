@@ -1,0 +1,15 @@
+recovery.img.zst
+odm/lib64/libarcsoft_turbo_fusion_mfnr.so.zst
+odm/etc/camera/ellc.bin.zst
+odm/firmware_qtvm/system.img.zst
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.zst
+product/priv-app/NewCall/NewCall.apk.zst
+product/priv-app/MiuiCamera/MiuiCamera.apk.zst
+product/priv-app/MIUIBrowser/MIUIBrowser.apk.zst
+product/priv-app/GmsCore/GmsCore.apk.zst
+product/priv-app/MIUIAICR/MIUIAICR.apk.zst
+product/data-app/SmartHome/SmartHome.apk.zst
+product/data-app/MIUIMusicT/MIUIMusicT.apk.zst
+product/data-app/Health/Health.apk.zst
+system_ext/priv-app/Settings/Settings.apk.zst
+product/data-app/MIUIGallery/MIUIGallery.apk.zst
